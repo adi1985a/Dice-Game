@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1678239881 source:c:\users\hp\desktop\programy na github\c++\games\gra w kosci1\main.cpp
+	<iostream>
+	<conio.h>
+	<ctime>
+	<windows.h>
+	<cstdlib>
+
+1741570140 source:f:\my portafolio it ulepszona\c++\games\dice game\main.cpp
+	<iostream>
+	<conio.h>
+	<ctime>
+	<windows.h>
+	<cstdlib>
+	<string>
+
