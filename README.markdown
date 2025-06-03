@@ -29,8 +29,6 @@ _A thrilling C++ console dice game where strategy, luck, and a dash of daring ca
 
 ## 🖼️ Screenshots
 
-**Coming soon!**
-
 _Screenshots showcasing the dice rolls, scoring, and the colorful interface._
 
 <p align="center">
