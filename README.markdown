@@ -34,7 +34,6 @@ _Screenshots showcasing the dice rolls, scoring, and the colorful interface._
 <p align="center">
   <img src="screenshots\Image13.jpg" width="300"/>
   <img src="screenshots\Image14.jpg" width="300"/>
-  <img src="screenshots\Image15.jpg" width="300"/>
   <img src="screenshots\Image16.jpg" width="300"/>
   <img src="screenshots\Image17.jpg" width="300"/>
 </p>
