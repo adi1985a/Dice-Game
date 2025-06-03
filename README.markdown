@@ -9,6 +9,8 @@ _A thrilling C++ console dice game where strategy, luck, and a dash of daring ca
 
 **Dice Roller Royale** is a captivating console-based C++ game that simulates a high-stakes dice rolling adventure. Players start with a modest bankroll and aim to maximize their fortune and score over a series of up to 10 thrilling rounds. Each round involves rolling two six-sided dice, with outcomes determining wins, losses, or point gains based on classic dice game rules. The game features engaging ASCII art to display the dice, a colorful user interface for enhanced immersion, and an exciting win multiplier system that rewards consecutive successes. Can you master the odds and become the Dice Roller Royale champion?
 
+![Demo GIF](screenshots/1.gif)
+
 ## ✨ Key Features
 
 *   🎲 **Classic Dice Rolling Action**: Experience the thrill of rolling two virtual 6-sided dice in each round.
@@ -29,7 +31,15 @@ _A thrilling C++ console dice game where strategy, luck, and a dash of daring ca
 
 **Coming soon!**
 
-_In the future, screenshots showcasing the dice rolls, scoring, and the colorful interface will be added here._
+_Screenshots showcasing the dice rolls, scoring, and the colorful interface._
+
+<p align="center">
+  <img src="screenshots\Image13.jpg" width="300"/>
+  <img src="screenshots\Image14.jpg" width="300"/>
+  <img src="screenshots\Image15.jpg" width="300"/>
+  <img src="screenshots\Image16.jpg" width="300"/>
+  <img src="screenshots\Image17.jpg" width="300"/>
+</p>
 
 ## ⚙️ System Requirements
 
